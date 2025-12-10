@@ -60,12 +60,6 @@ The dataset contains ~8,500 customer support tickets with information like:
 - All support channels (email, phone, chat, social media) are roughly equally used
 - Technical issues generate the most tickets
 
-## How to Run
-
-1. Clone this repo
-2. Install dependencies: `pip install -r requirements.txt`
-3. Open the notebook and run all cells
-4. Check the `outputs/` folder for results
 
 ## Requirements
 
@@ -82,12 +76,3 @@ The models achieved around 20-22% accuracy on this 5-class classification proble
 - 5 classes to predict
 - Random baseline would be 20%
 - The data has inherent noise
-
-See the dashboard (`outputs/visualizations/11_dashboard.png`) for a summary of all findings.
-
-## Contact
-
-Feel free to reach out if you have questions or suggestions!
-
----
-*This project was completed as part of a Data Science internship.*
